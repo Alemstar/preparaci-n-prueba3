@@ -1,0 +1,2 @@
+Nombre / Cargo / Sueldo bruto / Descuento salud / Descuento AFP / Sueldo liquido  
+['cata', 'desarrollador', 1000000, 70000, 120000, 810000]
